@@ -30,6 +30,37 @@
 					"configContent": "{\"enrollNodeStatuses\":[{\"nodeAddress\":{\"addressLine\":\"bagmane constellation business park, doddanekundi\",\"city\":\"BENGALURU\",\"state\":\"KARNATAKA\",\"zipcode\":\"560037\",\"countryCode\":\"IN\",\"country\":\"India\",\"addressLine2\":\"\",\"addressLine3\":\"\",\"number\":null,\"complement\":null,\"neighborhood\":null},\"nodeStatus\":\"DEFAULT\",\"requestId\":\"50b1d540-77ae-11ed-a212-95afd4b3c94e\"}]}"
 				}
 			]
+		},
+						{
+			"applicationId": "X000DLN6VD",
+			"merchantMarketplace": "A3BARHDQC39F1H-A2XZLSVIQ0F4JT",
+			"status": "OPS_VERIFICATION_IN_PROGRESS",
+			"created": 1670582630410,
+			"configDetails": [{
+					"configType": "CONTACTS",
+					"configContent": "[{\"firstName\":\"dsds\",\"lastName\":\"dsds\",\"name\":\"dsds dsds\",\"phone\":\"+919876543210\",\"email\":\"dsdsd@dsd.dsd\",\"isPrimary\":true,\"commercial\":false,\"operation\":false}]"
+				},
+				{
+					"configType": "TRAINING_DETAILS",
+					"configContent": false
+				},
+				{
+					"configType": "PRODUCT_DETAILS",
+					"configContent": "{\"hasHazmat\":\"true\",\"hasOversize\":\"false\"}"
+				},
+				{
+					"configType": "READINESS_PROOF_DETAILS",
+					"configContent": "{\"videoProof\":{\"type\":\"video/mp4\",\"size\":452588,\"name\":\"test_seller_video.mp4\",\"lastModified\":1668413391769},\"printerProof\":{\"type\":\"image/png\",\"size\":413053,\"name\":\"test_seller_printer_proof.jpg\",\"lastModified\":1668679712568},\"packagingMaterialProof\":{\"type\":\"image/png\",\"size\":598170,\"name\":\"test_seller_packaging_proof.pdf\",\"lastModified\":1668679715947},\"additionalInformation\":\"\"}"
+				},
+				{
+					"configType": "TAX_DETAILS_INPUT",
+					"configContent": "5"
+				},
+				{
+					"configType": "NODE_ADDRESS",
+					"configContent": "{\"enrollNodeStatuses\":[{\"nodeAddress\":{\"addressLine\":\"bagmane constellation business park, doddanekundi\",\"city\":\"BENGALURU\",\"state\":\"KARNATAKA\",\"zipcode\":\"560037\",\"countryCode\":\"IN\",\"country\":\"India\",\"addressLine2\":\"\",\"addressLine3\":\"\",\"number\":null,\"complement\":null,\"neighborhood\":null},\"nodeStatus\":\"DEFAULT\",\"requestId\":\"50b1d540-77ae-11ed-a212-95afd4b3c94e\"}]}"
+				}
+			]
 		}],
 		"lastEvaluatedKey": "key"
 	}

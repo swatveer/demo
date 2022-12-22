@@ -89,15 +89,12 @@
 				},
 				{
 					"configType": "TAX_DETAILS_INPUT",
-					"configContent": "5"
+					"configContent": "{\"taxDetailsInput\":{\"gstn\":\"24CHXPJ4963K1ZK\",\"isApplicable\":true}}"
 				},
 				{
 					"configType": "NODE_ADDRESS",
 					"configContent": "{\"enrollNodeStatuses\":[{\"nodeAddress\":{\"addressLine\":\"bagmane constellation business park, doddanekundi\",\"city\":\"BENGALURU\",\"state\":\"KARNATAKA\",\"zipcode\":\"560037\",\"countryCode\":\"IN\",\"country\":\"India\",\"addressLine2\":\"\",\"addressLine3\":\"\",\"number\":null,\"complement\":null,\"neighborhood\":null},\"nodeStatus\":\"DEFAULT\",\"requestId\":\"50b1d540-77ae-11ed-a212-95afd4b3c94e\"}]}"
-				},
-					  {"configType" : "TAX_DETAILS_INPUT",
-					   "configContent" : "{\"taxDetailsInput\":{\"gstn\":\"24CHXPJ4963K1ZK\",\"isApplicable\":true}}"
-					  }
+				}
 			]
 		}],
 		"merchant": "key"

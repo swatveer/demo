@@ -94,6 +94,10 @@
 				{
 					"configType": "NODE_ADDRESS",
 					"configContent": "{\"enrollNodeStatuses\":[{\"nodeAddress\":{\"addressLine\":\"bagmane constellation business park, doddanekundi\",\"city\":\"BENGALURU\",\"state\":\"KARNATAKA\",\"zipcode\":\"560037\",\"countryCode\":\"IN\",\"country\":\"India\",\"addressLine2\":\"\",\"addressLine3\":\"\",\"number\":null,\"complement\":null,\"neighborhood\":null},\"nodeStatus\":\"DEFAULT\",\"requestId\":\"50b1d540-77ae-11ed-a212-95afd4b3c94e\"}]}"
+				},
+					  {
+					"configType": "OPERATING_SCHEDULES",
+					"configContent": "[{\"dayOfWeek\":\"Monday\",\"open\":{\"value\":true},\"from\":{\"value\":\"09:00\"},\"to\":{\"value\":\"18:00\"}},{\"dayOfWeek\":\"Tuesday\",\"open\":{\"value\":true},\"from\":{\"value\":\"09:00\"},\"to\":{\"value\":\"18:00\"}},{\"dayOfWeek\":\"Wednesday\",\"open\":{\"value\":true},\"from\":{\"value\":\"09:00\"},\"to\":{\"value\":\"18:00\"}},{\"dayOfWeek\":\"Thursday\",\"open\":{\"value\":true},\"from\":{\"value\":\"09:00\"},\"to\":{\"value\":\"18:00\"}},{\"dayOfWeek\":\"Friday\",\"open\":{\"value\":true},\"from\":{\"value\":\"09:00\"},\"to\":{\"value\":\"18:00\"}},{\"dayOfWeek\":\"Saturday\",\"open\":{\"value\":true},\"from\":{\"value\":\"09:00\"},\"to\":{\"value\":\"18:00\"}},{\"dayOfWeek\":\"Sunday\",\"open\":{\"value\":true},\"from\":{\"value\":\"09:00\"},\"to\":{\"value\":\"18:00\"}}]"
 				}
 			]
 		}],

@@ -70,7 +70,9 @@
 			"applicationId": "X000DLN6VD",
 			"merchantMarketplace": "A3BARHDQC39F1H-A2XZLSVIQ0F4JT",
 			"status": "OPS_VERIFICATION_IN_PROGRESS",
-			"created": 1670582630410,
+			"created": 1673266553630,
+			"lastUpdated" : 1673266577926,
+			"rejectionReasons" : [],
 			"configDetails": [{
 					"configType": "CONTACTS",
 					"configContent": "[{\"firstName\":\"dsds\",\"lastName\":\"dsds\",\"name\":\"dsds dsds\",\"phone\":\"+919876543210\",\"email\":\"dsdsd@dsd.dsd\",\"isPrimary\":true,\"commercial\":false,\"operation\":false}]"
@@ -93,7 +95,7 @@
 				},
 				{
 					"configType": "NODE_ADDRESS",
-					"configContent": "{\"enrollNodeStatuses\":[{\"nodeAddress\":{\"addressLine\":\"bagmane constellation business park, doddanekundi\",\"city\":\"BENGALURU\",\"state\":\"KARNATAKA\",\"zipcode\":\"560037\",\"countryCode\":\"IN\",\"country\":\"India\",\"addressLine2\":\"\",\"addressLine3\":\"\",\"number\":null,\"complement\":null,\"neighborhood\":null},\"nodeStatus\":\"DEFAULT\",\"requestId\":\"50b1d540-77ae-11ed-a212-95afd4b3c94e\"}]}"
+					"configContent": "{\"nodeAddress\":{\"addressLine\":\"bagmane constellation business \",\"city\":\"BENGALURU\",\"state\":\"KARNATAKA\",\"zipcode\":\"560037\",\"countryCode\":\"IN\",\"country\":\"India\",\"addressLine2\":\"\",\"addressLine3\":\"\",\"number\":null,\"complement\":null,\"neighborhood\":null},\"nodeStatus\":\"DEFAULT\",\"requestId\":\"4abc5ee0-9017-11ed-97da-3f96907da10f\"}"
 				},
 					  {
 					"configType": "OPERATING_SCHEDULES",
